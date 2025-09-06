@@ -7,5 +7,5 @@
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-dev&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrRSTMI&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrRSTMI&layout=compact)
