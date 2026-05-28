@@ -11,7 +11,7 @@ im from  Iran :)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/Fastapi-000099?style=for-the-badge&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrRSTMI&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrRSTMI&layout=compact)
