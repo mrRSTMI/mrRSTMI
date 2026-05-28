@@ -6,7 +6,7 @@ im from  Iran :)
 
 ## MY SKILLS:
 ![Html](https://img.shields.io/badge/Html-ff5500?style=for-the-badge&logo=html&logoColor=white)
-
+![Css](https://img.shields.io/badge/Css-000000?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
