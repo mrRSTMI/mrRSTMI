@@ -13,7 +13,7 @@ im from  Iran :)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pidantic](https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=white)
+![Pidantic](https://img.shields.io/badge/Pydantic-ff2299?style=for-the-badge&logo=pydantic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/Fastapi-000099?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
