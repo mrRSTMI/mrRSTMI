@@ -16,6 +16,7 @@ im from  Iran :)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pidantic](https://img.shields.io/badge/Pydantic-ff2299?style=for-the-badge&logo=pydantic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/Fastapi-000099?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-000099?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 
